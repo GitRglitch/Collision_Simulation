@@ -1,6 +1,3 @@
-const y = window.innerHeight / 2 + 80;
-document.getElementById("horizontal-line").style.top = y + "px";
-
 const svg = document.getElementById("svg");
 svg.setAttribute("width", window.innerWidth);
 svg.setAttribute("height", window.innerHeight);
